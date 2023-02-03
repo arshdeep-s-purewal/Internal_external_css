@@ -1,0 +1,28 @@
+
+.bck{
+    background-color: beige;
+}
+
+
+header{
+    height: 70px;
+    color: aquamarine;
+    background-color: black;
+    
+}
+
+h1 {
+    padding-top: 17px;
+    padding-left: 30px;
+    text-align:justify;
+}
+
+section{
+    background-color: rgb(231, 157, 183);
+    font-size: 30px;
+    color: rgb(9, 9, 9);
+}
+
+body{
+    background-color: azure;
+}
